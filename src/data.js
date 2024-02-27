@@ -1,0 +1,73 @@
+export const albumItems = [
+    {
+      name: "BORN PINK STANDARD DIGIPACK - LISA",
+      price: "$26.00",
+      photoName: "lisa.png",
+      isSoldOut: true,
+      quantity: 0,
+    },
+    {
+      name: "BORN PINK STANDARD DIGIPACK - JENNIE",
+      price: "$26.00",
+      photoName: "jennie.png",
+      isSoldOut: false,
+      quantity: 16,
+    },
+    {
+      name: "BORN PINK STANDARD DIGIPACK - JISOO",
+      price: "$26.00",
+      photoName: "jisoo.png",
+      isSoldOut: true,
+      quantity: 0,
+    },
+    {
+      name: "BORN PINK STANDARD DIGIPACK - ROSÈ",
+      price: "$26.00",
+      photoName: "rose.png",
+      isSoldOut: false,
+      quantity: 24,
+    },
+    {
+      name: "BORN PINK EXCLUSIVE BOX SET - BLACK VERSION",
+      price: "$50.00",
+      photoName: "black.png",
+      isSoldOut: true,
+      quantity: 0,
+    },
+    {
+      name: "THE ALBUM (VERSION 1)",
+      price: "$30.00",
+      photoName: "albumV1.png",
+      isSoldOut: false,
+      quantity: 14,
+    },
+    {
+      name: "THE ALBUM (VERSION 2)",
+      price: "$30.00",
+      photoName: "albumV2.png",
+      isSoldOut: true,
+      quantity: 0,
+    },
+    {
+      name: "THE ALBUM (VERSION 3)",
+      price: "$30.00",
+      photoName: "albumV3.png",
+      isSoldOut: false,
+      quantity: 18,
+    },
+    {
+      name: "STANDARD LP",
+      price: "$39.98",
+      photoName: "LP.png",
+      isSoldOut: true,
+      quantity: 0,
+    },
+    {
+      name: "STANDARD CD",
+      price: "$16.48",
+      photoName: "CD.png",
+      isSoldOut: true,
+      quantity: 0,
+    },
+  ];
+  
